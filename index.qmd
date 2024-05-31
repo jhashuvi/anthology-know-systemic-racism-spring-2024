@@ -16,8 +16,8 @@ title: "Reframing Police Militarization in California"
 session: "Spring 2024"
 image: "data/imgs/placeholder.jpg"
 project-members:
-  - name: Dr. Jane Doe
-    designation: Faculty Director of Department
+  - name: Shuvi Jha
+    designation: Intern, Department of Computer Science
     orcid: https://orcid.org/0000-0000-0000-0000
   - name: John Doe
     designation: Intern - Summer, 2023
