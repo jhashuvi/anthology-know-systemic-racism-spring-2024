@@ -12,8 +12,8 @@ format:
     template-partials: 
       - template/title-block.html
 # do not edit ends
-title: "Anthology Article Template"
-session: "Summer 2023"
+title: "Reframing Police Militarization in California"
+session: "Spring 2024"
 image: "data/imgs/placeholder.jpg"
 project-members:
   - name: Dr. Jane Doe
